@@ -1,0 +1,8 @@
+{
+  "name" : "Gitlab",
+  "description" : "Open source Github clone",
+  "git_url" : "git://github.com/cloud66-samples/gitlabhq.git",
+  "git_branch" : "master",
+  "environment" : "production",
+  "mainainer" : "Philip Kallberg (philip@cloud66.com)"
+}
