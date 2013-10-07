@@ -1,0 +1,8 @@
+{
+  "name" : "Rails MySQL Sample",
+  "description" : "Sample Rails App with MySQL Backend",
+  "git_url" : "git://github.com/cloud66-samples/rails-mysql.git",
+  "git_branch" : "master",
+  "environment" : "production",
+  "mainainer" : "Philip Kallberg (philip@cloud66.com)"
+}
