@@ -1,0 +1,8 @@
+{
+  "name" : "Diaspora",
+  "description" : "Distributed and contextual social networking.",
+  "git_url" : "git://github.com/cloud66-samples/diaspora.git",
+  "git_branch" : "master",
+  "environment" : "production",
+  "maintainer" : "Philip Kallberg (philip@cloud66.com)"
+}
