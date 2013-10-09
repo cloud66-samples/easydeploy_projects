@@ -1,0 +1,8 @@
+{
+  "name" : "Spree",
+  "description" : "Spree is a complete open source e-commerce solution for Ruby on Rails.",
+  "git_url" : "git://github.com/cloud66-samples/spree-store.git",
+  "git_branch" : "master",
+  "environment" : "production",
+  "maintainer" : "Philip Kallberg (philip@cloud66.com)"
+}
