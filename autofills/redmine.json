@@ -1,0 +1,8 @@
+{
+  "name" : "Redmine",
+  "description" : "Redmine is a flexible project management web application written using Ruby on Rails framework.",
+  "git_url" : "git://github.com/cloud66-samples/redmine.git",
+  "git_branch" : "master",
+  "environment" : "production",
+  "maintainer" : "Philip Kallberg (philip@cloud66.com)"
+}
