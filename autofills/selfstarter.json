@@ -1,0 +1,8 @@
+{
+  "name" : "Selfstarter",
+  "description" : "Roll your own crowdfunding.",
+  "git_url" : "git://github.com/cloud66-samples/selfstarter.git",
+  "git_branch" : "master",
+  "environment" : "production",
+  "maintainer" : "Philip Kallberg (philip@cloud66.com)"
+}
