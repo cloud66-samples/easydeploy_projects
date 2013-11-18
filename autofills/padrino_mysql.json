@@ -1,0 +1,8 @@
+{
+  "name" : "Padrino with MySQL",
+  "description" : "Padrino with MySQL ActiveRecord",
+  "git_url" : "git://github.com/cloud66-samples/padrino-mysql-active_record.git",
+  "git_branch" : "master",
+  "environment" : "production",
+  "maintainer" : "Philip Kallberg (philip@cloud66.com)"
+}
