@@ -1,0 +1,8 @@
+{
+  "name" : "Sinatra and PostgreSQL",
+  "description" : "Sinatra and PostgreSQL sample app",
+  "git_url" : "git://github.com/cloud66-samples/sinatra-psql-datamapper.git",
+  "git_branch" : "master",
+  "environment" : "production",
+  "maintainer" : "Philip Kallberg (philip@cloud66.com)"
+}
