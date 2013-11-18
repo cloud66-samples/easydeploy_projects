@@ -1,0 +1,8 @@
+{
+  "name" : "Sinatra MongoDB",
+  "description" : "Sinatra and MongoDB sample app",
+  "git_url" : "git://github.com/cloud66-samples/sinatra-mongodb.git",
+  "git_branch" : "master",
+  "environment" : "production",
+  "maintainer" : "Philip Kallberg (philip@cloud66.com)"
+}
