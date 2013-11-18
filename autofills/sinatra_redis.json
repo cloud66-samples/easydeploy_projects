@@ -1,0 +1,8 @@
+{
+  "name" : "Sinatra and Redis",
+  "description" : "Sinatra and Redis sample app",
+  "git_url" : "git://github.com/cloud66-samples/sinatra-redis",
+  "git_branch" : "master",
+  "environment" : "production",
+  "maintainer" : "Philip Kallberg (philip@cloud66.com)"
+}
