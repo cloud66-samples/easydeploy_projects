@@ -2,7 +2,7 @@
   "name" : "Gitlab",
   "description" : "Open source Github clone",
   "git_url" : "git://github.com/cloud66-samples/gitlabhq.git",
-  "git_branch" : "6-7-stable",
+  "git_branch" : "7-0-stable",
   "environment" : "production",
   "maintainer" : "Philip Kallberg (philip@cloud66.com)"
 }
