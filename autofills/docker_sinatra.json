@@ -1,7 +1,7 @@
 {
   "name" : "Docker and Sinatra",
   "description" : "Sinatra and Docker sample app",
-  "git_url" : "git://github.com/cloud66-samples/sinatra-postgres-mongo-redis/tree/docker",
+  "git_url" : "git://github.com/cloud66-samples/sinatra-postgres-mongo-redis.git",
   "git_branch" : "docker",
   "environment" : "production",
   "maintainer" : "Philip Kallberg (philip@cloud66.com)"
