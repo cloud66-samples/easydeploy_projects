@@ -1,5 +1,5 @@
 {
-  "name" : "Rails and Docker",
+  "name" : "Docker and Rails",
   "description" : "Rails 4.1 with MySQL in Docker",
   "git_url" : "git://github.com/cloud66-samples/rails-4.1-mysql.git",
   "git_branch" : "docker",
